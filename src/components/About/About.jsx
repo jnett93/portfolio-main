@@ -9,7 +9,7 @@ export const About = () => {
       <h2 className={styles.title}>About</h2>
       <div className={styles.content}>
         <img
-          src={getImageUrl("about/aboutImage.png")}
+          src={getImageUrl("about/code.jpg")}
           alt="Me sitting with a laptop"
           className={styles.aboutImage}
         />
@@ -19,8 +19,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Frontend Developer</h3>
               <p>
-                I'm a frontend developer with experience in building responsive
-                and optimized sites
+                I'm a frontend developer with experience in building multiple up to date and very responsive websites!
               </p>
             </div>
           </li>
@@ -39,8 +38,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>UI Designer</h3>
               <p>
-                I have designed multiple landing pages and have created design
-                systems as well
+                I have designed 2 years of experience in UI/UX design work.
               </p>
             </div>
           </li>
