@@ -1,19 +1,19 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "E-commerce Website",
+    "imageSrc": "projects/bytemarket.png",
+    "description": "This is a project made to allow me to learn the basics of creating a functioning website with a shopping cart and checkout screen using different methods of payments.",
+    "skills": ["React", "Express", "Node", "BootStrap", "CSS", "HTML"],
+    "demo": "https://bytemarket.netlify.app/",
+    "source": "https://github.com/jnett93?tab=repositories"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Todo List App",
+    "imageSrc": "projects/todo.png",
+    "description": "This is a project made so that I have a way of keeping track of the things that I need to get done to stay or track with coding.",
+    "skills": ["React", "Javascript", "Node", "Module.css"],
+    "demo": "https://main--visionary-manatee-0d1223.netlify.app/",
+    "source": "https://github.com/jnett93?tab=repositories"
   },
   {
     "title": "Project C",
